@@ -1,4 +1,5 @@
 package github.com/athas/fut-foo
 
 require {
+  github.com/athas/fut-bar 0.1.0 #2db33f10b64320a3b86c233153674c653fd58bc6
 }
